@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on CyberSecurity and Ethical Hacking<br>👯 I’m looking to collaborate on with the industry <br>🤝 I’m looking for help with collaboration regarding work<br>🌱 I’m currently learning CyberSecurity and Ethical Hacking<br>⚡ Fun fact is that we look for sunset (which derives calmness, happiness of end of the day) but has to realise that we need to go across tough times (which means here afternoon sun).<br>
+🔭 I’m currently working on CyberSecurity, Ethical Hacking, Power BI and MySQL.<br>👯 I’m looking to collaborate on with the industry <br>🤝 I’m looking for help with collaboration regarding work<br>🌱 I’m currently learning MySQL, Python, Power BI.<br>⚡ Fun fact is that we look for sunset (which derives calmness, happiness of end of the day) but has to realise that we need to go across tough times (which means here afternoon sun).<br>
 
 
 ## 🌐 Socials:
