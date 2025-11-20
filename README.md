@@ -1,5 +1,36 @@
-# 💫 About Me:
-🔭 I’m currently working on CyberSecurity, Ethical Hacking, Power BI and MySQL.<br>👯 I’m looking to collaborate on with the industry <br>🤝 I’m looking for help with collaboration regarding work<br>🌱 I’m currently learning MySQL, Python, Power BI.<br>⚡ Fun fact is that we look for sunset (which derives calmness, happiness of end of the day) but has to realise that we need to go across tough times (which means here afternoon sun).<br>
+👋 Hi, I'm Poonam Kopoori!
+
+Data Integrity Analyst & Security-Aware Developer
+
+I am a B.Tech (CSE) graduate in Computer Science & Engineering(CSE) actively transitioning into the Data Analysis domain, focusing on building robust and secure data pipelines.
+
+My unique focus is on Data Integrity—leveraging technical analysis alongside security best practices to ensure data is not only insightful but also protected and trustworthy.
+
+🛠️ Current Focus & Toolkit
+
+Category
+
+Tools & Focus
+
+📊 Data Analysis & BI
+
+Power BI (DAX/M), SQL (Stored Procedures), Azure Data Factory (ADF)
+
+🔒 Security & Integrity
+
+Ethical Hacking (Ongoing Coursework), Data Governance, Python for Automation
+
+💻 Core Languages
+
+Python, MySQL/T-SQL, Java, Networking Fundamentals
+
+🚀 Collaboration & Goals
+
+Looking to Collaborate: I'm seeking opportunities to contribute to open-source projects or industry-related initiatives focusing on data security, visualization, or ETL optimization.
+
+Goal: To achieve technical proficiency in end-to-end data pipeline development and specialize in data defense strategies.
+
+Fun Fact: I approach complex datasets like solving a security challenge: finding the weakest link to ensure the overall integrity of the system!
 
 
 ## 🌐 Socials:
